@@ -1,0 +1,2 @@
+Prefix plugins/RevEcoR/example
+Plugin RevEcoR inputfile parameters.txt outputfile result
