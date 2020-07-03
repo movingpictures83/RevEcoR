@@ -1,7 +1,9 @@
+# RevEcoR
 # Language: R
 # Input: TXT (keyword-value pairs)
 # Output: PREFIX
 # Tested with: PluMA 1.0, R 4.0
+# Dependency: RevEcoR 0.99.3
 
 Predict relationships among organisms based on metabolic networks using RevEcoR (Cao et al, 2016).
 
